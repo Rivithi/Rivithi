@@ -64,48 +64,45 @@ https://linkedin.com/in/rivithi-mahendra-812321355
 
 ### Programming Languages
 
-* Java
-* Python
-* JavaScript
-* TypeScript
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,py,js,ts" />
+</p>
 
 ### Frontend Development
 
-* React.js
-* HTML5
-* CSS3
-* Responsive Design
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### Backend Development
 
-* Node.js
-* NestJS
-* Express.js
-* Java REST APIs (JAX-RS)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java" />
+</p>
 
 ### Mobile Development
 
-* React Native
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
 
 ### Databases
 
-* MongoDB
-* MySQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools & Technologies
 
-* Git & GitHub
-* Figma
-* ClickUp
-* Trello
-* VS Code
-* Firebase
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase" />
+</p>
 
 ### Cloud & DevOps (Learning)
 
-* Docker
-* AWS
-* Microservices
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
 
 ---
 
